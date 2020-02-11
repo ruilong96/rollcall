@@ -7,4 +7,6 @@ Name and GitHub account
 --------------------------------
 * John Stratton [johnastratton](https://github.com/johnastratton)
 
+* Maxwell Brown [maxwellnbrown](https://github.com/maxwellnbrown)
+* Jack Taylor [jht5225](https://github.com/jht5225)
 * Ruilong Zhuang [ruilong96](https://github.com/ruilong96/)
